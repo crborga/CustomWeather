@@ -35,7 +35,3 @@ Other mods that alter environment weights may conflict. Changing the server conf
 ## Credits
 
 This mod is based on the [FreyrWeather](https://valheim.hexium.gg/mods/Dwarf_Haven_Games/FreyrWeather) mod by Dwarf_Haven_Games. The main purpose of this version is to make the weather **fully configurable** and to **remove the Jotunn dependency**.
-
-## Changelog
-
-See CHANGELOG.md.
